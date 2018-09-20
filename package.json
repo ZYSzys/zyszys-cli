@@ -18,8 +18,9 @@
     "lint": "standard --fix"
   },
   "files": [
-    "index.js",
-    "cli.js"
+    "ui.js",
+    "cli.js",
+    "avatar.jpeg"
   ],
   "keywords": [
     "cli-app",
