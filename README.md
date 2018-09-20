@@ -28,6 +28,9 @@ $ zyszys --help
 
 ```
 
+## Thanks
+
+- [sindresorhus](https://github.com/sindresorhus/sindresorhus) - The Sindre Sorhus CLI.
 
 ## License
 
