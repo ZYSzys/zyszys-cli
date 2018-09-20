@@ -45,7 +45,7 @@ module.exports = () => (
   <div>
     <br />
     <div>
-      <Text>I'm a JavaScript developer, even enthusiast.</Text>
+      <Text>I'm a ❤️  Software Engineer | 🧡  Node.js Enthusiast | 💛 Open Sourceror.</Text>
     </div>
     <br />
     <SelectInput items={items} onSelect={handleSelect} />
