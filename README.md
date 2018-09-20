@@ -8,6 +8,7 @@
 
 > My personal cli
 
+![](/screenshot.png)
 
 ## Install
 

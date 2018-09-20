@@ -17,11 +17,6 @@
     "test": "npm run lint && ava",
     "lint": "standard --fix"
   },
-  "files": [
-    "ui.js",
-    "cli.js",
-    "avatar.jpeg"
-  ],
   "keywords": [
     "cli-app",
     "cli",
