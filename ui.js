@@ -19,7 +19,7 @@ const handleSelect = item => {
 const items = [
   {
     label: 'Website',
-    url: 'http://zyszys.top'
+    url: 'http://zyszys.github.io'
   },
   {
     label: 'Twitter',
@@ -31,7 +31,7 @@ const items = [
   },
   {
     label: 'Resume',
-    url: 'http://zyszys.top/web/Resume/'
+    url: 'http://zyszys.github.io/web/Resume/'
   },
   {
     label: 'Quit',
@@ -45,7 +45,7 @@ module.exports = () => (
   <div>
     <br />
     <div>
-      <Text>I'm a  ❤️  Software Engineer | 🧡  Node.js Enthusiast | 💛  Open Sourceror.</Text>
+      <Text>I'm a ❤️  Software Engineer | 🧡  Node.js Enthusiast | 💛  Open Sourcerer.</Text>
     </div>
     <br />
     <SelectInput items={items} onSelect={handleSelect} />
