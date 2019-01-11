@@ -18,20 +18,24 @@ const handleSelect = item => {
 
 const items = [
   {
-    label: 'Website',
-    url: 'http://zyszys.github.io'
-  },
-  {
-    label: 'Twitter',
-    url: 'https://twitter.com/ZYSzys_'
-  },
-  {
     label: 'GitHub',
     url: 'https://github.com/ZYSzys'
   },
   {
     label: 'Resume',
-    url: 'http://zyszys.github.io/web/Resume/'
+    url: 'https://zyszys.github.io/web/Resume/'
+  },
+  {
+    label: 'Profile',
+    url: 'https://gatsby-j3xx4ozff.now.sh/'
+  },
+  {
+    label: 'Website',
+    url: 'https://zyszys.github.io'
+  },
+  {
+    label: 'Twitter',
+    url: 'https://twitter.com/ZYSzys_'
   },
   {
     label: 'Quit',
@@ -45,7 +49,7 @@ module.exports = () => (
   <div>
     <br />
     <div>
-      <Text>I'm a ❤️  Software Engineer | 🧡  Node.js Enthusiast | 💛  Open Sourcerer.</Text>
+      <Text>I'm a ❤️  Node.js Enthusiast | 🧡  Open Sourcerer | 💛  continuous learner.</Text>
     </div>
     <br />
     <SelectInput items={items} onSelect={handleSelect} />
