@@ -49,7 +49,7 @@ module.exports = () => (
   <div>
     <br />
     <div>
-      <Text>I'm a ❤️  Node.js Enthusiast | 🧡  Open Sourcerer | 💛  continuous learner.</Text>
+      <Text>I'm a ❤️  Node.js Core Collaborator | 🧡  Node.js Website WG | 💙 Open Sourcerer.</Text>
     </div>
     <br />
     <SelectInput items={items} onSelect={handleSelect} />
