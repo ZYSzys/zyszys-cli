@@ -22,18 +22,6 @@ const items = [
     url: 'https://github.com/ZYSzys'
   },
   {
-    label: 'Resume',
-    url: 'https://zyszys.github.io/web/Resume/'
-  },
-  {
-    label: 'Profile',
-    url: 'https://gatsby-j3xx4ozff.now.sh/'
-  },
-  {
-    label: 'Website',
-    url: 'https://zyszys.github.io'
-  },
-  {
     label: 'Twitter',
     url: 'https://twitter.com/ZYSzys_'
   },
@@ -49,7 +37,7 @@ module.exports = () => (
   <div>
     <br />
     <div>
-      <Text>I'm a ❤️  Node.js Core Collaborator | 🧡  Node.js Website WG | 💙 Open Sourcerer.</Text>
+      <Text>I'm a 💙 ByteDancer | ❤️  Open Sourcerer.</Text>
     </div>
     <br />
     <SelectInput items={items} onSelect={handleSelect} />
